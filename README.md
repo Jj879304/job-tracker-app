@@ -27,11 +27,11 @@ Helps users track job applications and manage job status efficiently.
 
 ### 🏠 Main Dashboard
 
-<img src="assets/dashboard.png" width="700"/>
+![Dashboard](job-tracker-app/assets/dashboard.png)
 
 ### ➕ Add Job Form
 
-<img src="assets/add-job.png" width="700"/>
+![Add job](job-tracker-app/assets/add-job.png)
 
 ## 📚 What I Learned
 
