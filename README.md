@@ -31,7 +31,7 @@ Helps users track job applications and manage job status efficiently.
 
 ### ➕ Add Job Form
 
-![Add Job](job-tracker-app/assets/add-job.png)
+![Add Job](job-tracker-app/assets/add.job.png)
 
 ## 📚 What I Learned
 
