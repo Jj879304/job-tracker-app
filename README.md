@@ -1,16 +1,18 @@
-# Job Tracker App
+# 🚀 Job Tracker App
 
-A full-stack web application that helps users track job applications.
+A full-stack job tracking application built with React, Node.js, Express, and SQLite.
 
-## Features
+Helps users track job applications and manage job status efficiently.
+
+## ✨ Features
 
 - Add jobs
-- View all jobs
-- Change application status
+- View jobs
+- Change status
 - Delete jobs
-- SQLite database storage
+- SQLite database integration
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - React.js
@@ -21,15 +23,26 @@ A full-stack web application that helps users track job applications.
 - Express.js
 - SQLite
 
-## Project Structure
+## 📸 App Screenshots
 
-job-tracker-app/
-├── frontend/
-├── backend/
+### 🏠 Main Dashboard
 
-## Installation
+![Dashboard](./frontend/src/assets/dashboard.png)
 
-### Clone repository
+### ➕ Add Job Form
 
-```bash
-git clone https://github.com/JJ879304/job-tracker-app.git
+![Add Job](./frontend/src/assets/add-job.png)
+
+## 📚 What I Learned
+
+This project helped me practice:
+
+- Full-stack development
+- React fundamentals
+- APIs
+- SQLite database integration
+- Git & GitHub
+
+## 👨‍💻 Author
+
+James Snethemba Ntshingila
