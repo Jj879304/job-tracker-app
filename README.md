@@ -67,7 +67,7 @@ This project focuses on real-world **full-stack development concepts**, includin
 
 ---
 
-### ➕ Add Job Form
+### ➕ Add Job
 
 ![Add Job](assets/add.job.png)
 
