@@ -63,13 +63,13 @@ This project focuses on real-world **full-stack development concepts**, includin
 
 ### 🖥️ Dashboard
 
-![Dashboard](/.assets/Dash-board.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ### ➕ Add Job
 
-![Add Job](/.assets/add.job.png)
+![Add Job](assets/add.job.png)
 
 ---
 
